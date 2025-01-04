@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gourang Patidar!<br><br>🚀 Founder of TheQuickAI(https://www.thequickai.com/) | 🧠 AI Enthusiast | 💻 Machine Learning & GenAI Developer<br><br>I’m passionate about using AI and technology to solve real-world problems and create meaningful impact. With experience in Machine Learning, Data Analytics, and Generative AI, I focus on building innovative tools and platforms.<br><br>📝 TheQuickAI: Revolutionizing education with AI-powered quiz and question paper generation tools.<br>💼 MOTM Technologies: Crafting cutting-edge solutions to bridge the gap between innovation and industry needs.<br>Some of my notable projects include:<br><br>🔍 SearchGPT: Streamlining information retrieval.<br>🤟 Sign Language Detection: Empowering accessibility through AI.<br>💡 Always learning, growing, and sharing knowledge. Let’s connect and collaborate to make the future smarter, one line of code at a time!<br><br>📫 Reach me at: gourangpatidar@gmail.com<br>
+👋 Hi, I'm Gourang Patidar!<br><br>🚀 Founder of TheQuickAI(https://www.thequickai.com/) | 🧠 AI Enthusiast | 💻 Machine Learning & GenAI Developer<br><br>I’m passionate about using AI and technology to solve real-world problems and create meaningful impact. With experience in Machine Learning, Data Analytics, and Generative AI, I focus on building innovative tools and platforms.<br><br>📝 TheQuickAI: Revolutionizing education with AI-powered quiz and question paper generation tools.<br>💼 MOTM Technologies: Crafting cutting-edge solutions to bridge the gap between innovation and industry needs.<br>Some of my notable projects include:<br><br>🔍 SearchGPT: Streamlining information retrieval.<br>🤟 Sign Language Detection: Empowering accessibility through AI.<br>💡 Always learning, growing, and sharing knowledge. Let’s connect and collaborate to make the future smarter, one line of code at a time!<br><br>📫 Reach me at: gourangpatidar2003@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GourangPatidar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GourangPatidar&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GourangPatidar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GourangPatidar&limit=5&theme=dark&combine_all_yearly_contributions=true)
