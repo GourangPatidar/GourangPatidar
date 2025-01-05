@@ -2,6 +2,7 @@
 👋 Hi, I'm Gourang Patidar!<br><br>🚀 Founder of TheQuickAI(https://www.thequickai.com/) | 🧠 AI Enthusiast | 💻 Machine Learning & GenAI Developer<br><br>I’m passionate about using AI and technology to solve real-world problems and create meaningful impact. With experience in Machine Learning, Data Analytics, and Generative AI, I focus on building innovative tools and platforms.<br><br>📝 TheQuickAI: Revolutionizing education with AI-powered quiz and question paper generation tools.<br>💼 MOTM Technologies: Crafting cutting-edge solutions to bridge the gap between innovation and industry needs.<br>Some of my notable projects include:<br><br>🔍 SearchGPT: Streamlining information retrieval.<br>🤟 Sign Language Detection: Empowering accessibility through AI.<br>💡 Always learning, growing, and sharing knowledge. Let’s connect and collaborate to make the future smarter, one line of code at a time!<br><br>📫 Reach me at: gourangpatidar2003@gmail.com<br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gourang_patidar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gourang-patidar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GourangPatidar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thequickaii) 
 
